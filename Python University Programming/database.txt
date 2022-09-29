@@ -1,0 +1,14 @@
+ID 	Genre 		Title 			Author 		Purchase_Date 		Member_ID
+1			Mythology			Heroes_of_Olympus			Rick_Riodan			18/01/2015			0			
+2			Fantasy_Fiction			Harry_Potter			J.K.Rowling			18/01/2015			0			
+3			Tradgedy			Macbeth			Shakespeare			13/10/2019			beeb			
+4			Novel			Wonder			R.J.Palacio			20/11/2020			dann			
+5			Fantasy_Fiction			Harry_Potter			J.K.Rowling			01/02/2016			0			
+6			Fiction			War_Horse			Michael_Morpurgo			01/01/2021			tomc			
+7			Novel			The_Great_Gatsby			F.Scott.Fitzgerald			13/10/2016			0			
+8			Fantasy_Fiction			The_Lord_of_the_Rings			J.R.R.Tolkien			18/01/2015			tchr			
+9			Religious			KJV_Bible			King_James			18/01/2015			0			
+10			Fantasy_Fiction			The_Gruffalo			Julia_Donaldson			01/03/2017			dsdf			
+11			Fantasy_Fiction			The_Hobbit			J.R.R.Tolkien			18/01/2015			aaaa			
+12			Anthology			The_Tales_of_Beedle_the_Bard			J.K.Rowling			31/12/2020			0			
+13			Fantasy_Fiction			The_Hobbit			J.R.R.Tolkien			18/01/2015			0			
